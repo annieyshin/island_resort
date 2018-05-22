@@ -8,10 +8,12 @@ h1 {
 h2 {
   font-style: italic;
   text-align: center;
-  color: yellow;
+  color: grey;
 }
 
-
+h3 {
+  color:lightblue;
+}
 .center {
   display: block;
   margin-left: auto;
@@ -25,11 +27,11 @@ img {
 }
 
 p {
-  color: navy;
+  color: white;
 }
 
 body {
-  background-image: url('img/sand.jpg');
+  background-image: url('img/blacksand.jpg');
   text-align: center;
   font-family: sans-serif;
 }
